@@ -62,4 +62,3 @@ client.on('shardError', error => {
 });
 
 client.login(token)
-//asd
